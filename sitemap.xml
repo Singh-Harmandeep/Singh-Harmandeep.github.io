@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jaskaran.codes/index.html</loc>
+    <lastmod>2021-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jaskaran.codes/images/apple-512-crop-u115.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jaskaran.codes/images/linkedin-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jaskaran.codes/images/twitter-512.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
